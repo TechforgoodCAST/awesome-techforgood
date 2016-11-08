@@ -22,8 +22,11 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 
 ## Awesome tech for good projects
-- [Beehive Giving](https://www.beehivegiving.org)
-- [Open Bionics](https://github.com/OpenBionics)
+- [Beehive Giving](https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
+- [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
+- [Open Bionics](https://github.com/OpenBionics) - open-source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
+- [Wayfindr] (https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
+- [Wevolver] (https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 
 
 ## Online directories 
@@ -97,7 +100,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 # Contributing
 
-- Please check for duplicates first.
+- This list needs more project repo links! If you know of any awesome open source tech for good projects or open APIs, please add them (though please check for duplicates first).
 - Keep descriptions short, simple and unbiased.
 - Please make an individual commit for each suggestion.
 - Add a new category if needed.
