@@ -40,13 +40,14 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Accelerators
 - [Bethnal Green Ventures] (https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
+- [CARE ScaleXDesign] (http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
 - [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna 
-- [The Engine] (http://www.engine.xyz/), Boston MA, US - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
+- [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 
 ### Incubators
-- [Blue Ridge Labs] (https://labs.robinhood.org/), NYC, US - incubator for tech for good ventures in NYC.
+- [Blue Ridge Labs] (https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
 
 ### Fellowships
 - [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects
@@ -65,7 +66,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Mustard Seed] (http://mustardseedimpact.com/), UK
 
 ### VC
-- [Fifty Years] (http://www.fifty.vc/), San Francisco, US - an entrepreneur-run early stage VC, funding companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.
+- [Fifty Years] (http://www.fifty.vc/), San Francisco, CA - an entrepreneur-run early stage VC, funding companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.
 - [NESTA Impact Investments] (https://nestainvestments.org.uk/), UK - investing in ventures with inclusive and scalable innovations run by outstanding entrepreneurs.
 
 
@@ -90,13 +91,16 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ## Regular meetups and events
 
 ### Meetups
-- [Impact.tech] (http://www.meetup.com/impacttech/), San Francisco, US
+- [Impact.tech] (http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared] (http://netsquared.org/), worldwide
 - [Tech for Good London] (http://www.meetup.com/techforgood/), UK
 - [Tech for Good Manchester] (http://www.meetup.com/Tech-for-Good-Manchester/), UK
 - [Tech4Good Sheffield] (http://shefftech4good.org/), UK
 - [Tech for Good Cambridge] (http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), UK
 
+### Events
+- [NetHope Global Summit] (http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
+- [TechCon] (http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
 
 # Contributing
 
