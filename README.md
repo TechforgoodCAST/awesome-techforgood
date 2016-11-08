@@ -22,7 +22,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 
 ## Awesome tech for good projects
-- [Beehive Giving](https://beehivegiving.org)
+- [Beehive Giving](https://www.beehivegiving.org)
 - [Open Bionics](https://github.com/OpenBionics)
 
 
