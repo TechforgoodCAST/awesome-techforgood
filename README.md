@@ -22,8 +22,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 
 ## Awesome tech for good projects
-- Beehive Giving 
-- Open Bionics
+- [Beehive Giving](www.beehivegiving.org)
+- [Open Bionics](www.openbionics.com/)
 
 
 ## Online directories 
