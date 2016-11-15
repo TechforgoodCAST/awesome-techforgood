@@ -59,6 +59,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Grants
 - [Comic Relief] (https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
 - [Nominet Trust] (http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
+- [UNICEF Innovation Fund] (https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
 
 ### Angels and impact investors
 - [ClearlySo] (https://www.clearlyso.com), UK
