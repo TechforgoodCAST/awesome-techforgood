@@ -23,7 +23,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ## Awesome tech for good projects
 - [Free Code Camp nonprofit email service] (https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
-- [HelpText] (https://github.com/open-ecommerce/helptext - open source app for SMS managment in nonprofit organisations.
+- [HelpText] (https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 - [Wayfindr] (https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
