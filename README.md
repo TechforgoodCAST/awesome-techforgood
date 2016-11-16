@@ -46,11 +46,11 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [CARE ScaleXDesign] (http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
-- [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna 
 - [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 
 ### Incubators
 - [Blue Ridge Labs] (https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
+- [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna. 
 
 ### Fellowships
 - [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects
