@@ -104,6 +104,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Events
 - [NetHope Global Summit] (http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
+- [Social Good Week] (http://www.socialgoodweek.com/), France, 30 November-6 December 2016
 - [TechCon] (http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
 
 # Contributing
