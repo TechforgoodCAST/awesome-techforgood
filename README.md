@@ -27,6 +27,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 - [Open Charities] (https://github.com/tithebarn/open-charities) - open source API for querying the register of charities in England & Wales.
+- [Rapid SMS] (https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
+- [Smart Elect] (https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
 - [Wayfindr] (https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
 - [Wevolver] (https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 
