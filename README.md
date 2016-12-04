@@ -87,6 +87,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Reason Digital] (http://reasondigital.com/), Manchester UK - websites and digital for charities and public sector orgs.
 - [Shift] (http://www.shiftdesign.org.uk/), London UK  - designs consumer products and builds social ventures to help solve social problems.
 - [SimpleWeb] (http://simpleweb.co.uk/), Bristol UK - digital studio specialising in SaaS and mobile.
+- [Squareweave] (http://squareweave.com.au/), Melbourne Australia - full-service digital agency specialising in social good.
 - [Super Being Labs] (http://superbeinglabs.org/), London UK - creating social impact using entrepreneurship, creativity and technology.
 - [Thoughtbot] (https://thoughtbot.com/london), London UK - Ruby on Rails and iOS development studio, offer pro bono dev work to charities.
 
