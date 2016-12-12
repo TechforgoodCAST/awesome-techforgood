@@ -50,6 +50,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
 - [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
+- [Thinktech] (http://www.socialinnovation.ie/our-programmes/what-is-thinktech/), Ireland - €1 million fund backing tech based solutions to Ireland’s critical social issues, from Social Innovation Fund Ireland and Google.org.
 
 ### Incubators
 - [Blue Ridge Labs] (https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
