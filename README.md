@@ -47,6 +47,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Accelerators
 - [Bethnal Green Ventures] (https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
 - [CARE ScaleXDesign] (http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
+- [Digital Impact] (http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
 - [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
@@ -57,14 +58,16 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna. 
 
 ### Fellowships
-- [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects
+- [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects.
 - [CAST Digital Fellowship] (https://medium.com/@wearecast/diving-into-the-digital-fellowship-part-1-411119ad5039), UK - for CEOs and Directors of nonprofits.
+- [Stanford PACS] (http://pacscenter.stanford.edu/digital-civil-society/opportunities/#fellowships), Stanford, US - annual post-doctoral fellowship with the Stanford Digital Civil Society Lab.
 
 
 ## Funders
 
 ### Grants
 - [Comic Relief] (https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
+- [Good Data Grants] (https://marketsforgood.org/rfp-good-data-grants/), Stanford, US - research and innovation grants to explore digital data/infrastructure that improves decision-making in philanthropy and civil society.
 - [Nominet Trust] (http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund] (https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
 
