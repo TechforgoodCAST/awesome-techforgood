@@ -49,6 +49,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [CARE ScaleXDesign] (http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Digital Impact] (http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
+- [Fast Forward] (http://www.ffwd.org/), US - equipping tech nonprofits with the financial and human capital necessary to scale
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
 - [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 - [Thinktech] (http://www.socialinnovation.ie/our-programmes/what-is-thinktech/), Ireland - €1 million fund backing tech based solutions to Ireland’s critical social issues, from Social Innovation Fund Ireland and Google.org.
@@ -114,6 +115,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [NetHope Global Summit] (http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
 - [Social Good Week] (http://www.socialgoodweek.com/), France, 30 November-6 December 2016
 - [TechCon] (http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
+- [Accelerate Global Good] (http://accelerategood.org/), San Francisco, CA, 2-3 March 2017
+- [For a list of global Civic Tech events, see this repo] (https://github.com/compilerla/civic-tech-events?platform=hootsuite)
 
 # Contributing
 
