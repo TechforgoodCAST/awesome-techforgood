@@ -49,6 +49,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [CARE ScaleXDesign] (http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Digital Impact] (http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger
 - [Dotforge] (https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
+- [EPIC Cambodia] (http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
 - [Fast Forward] (http://www.ffwd.org/), US - equipping tech nonprofits with the financial and human capital necessary to scale
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
 - [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
@@ -56,6 +57,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Incubators
 - [Blue Ridge Labs] (https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
+- [Liberte Living Lab] (https://liberte.paris/), Paris, France - collaborative workspace for tech, civic and social innovation. 
 - [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna. 
 
 ### Fellowships
