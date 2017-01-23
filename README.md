@@ -40,7 +40,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Social Tech Guide] (http://socialtech.org.uk/) - largest database of global tech for good.
 - [Tech for Good Global] (http://www.techforgood.global/) - shining a light on the people & technology making our world better.
 - [The Toolbox] (http://www.thetoolbox.org/) - curated list of digital tools for humanitarian work.
-
+- [Civic Tech] (http://civictech.co.uk) - tools that empower citizens 
 
 ## Accelerators, incubators and fellowships
 
