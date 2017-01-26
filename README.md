@@ -40,7 +40,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Social Tech Guide] (http://socialtech.org.uk/) - largest database of global tech for good.
 - [Tech for Good Global] (http://www.techforgood.global/) - shining a light on the people & technology making our world better.
 - [The Toolbox] (http://www.thetoolbox.org/) - curated list of digital tools for humanitarian work.
-- [Civic Tech] (http://civictech.co.uk) - tools that empower citizens 
+- [Civic Tech] (http://civictech.co.uk) - tools that empower citizens. 
 
 ## Accelerators, incubators and fellowships
 
@@ -52,7 +52,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [EPIC Cambodia] (http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
 - [Fast Forward] (http://www.ffwd.org/), US - equipping tech nonprofits with the financial and human capital necessary to scale
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
-- [The Engine] (http://www.engine.xyz/), Boston, MA, - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
+- [The Engine] (http://www.engine.xyz/), Boston, MA - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 - [Thinktech] (http://www.socialinnovation.ie/our-programmes/what-is-thinktech/), Ireland - €1 million fund backing tech based solutions to Ireland’s critical social issues, from Social Innovation Fund Ireland and Google.org.
 
 ### Incubators
@@ -70,6 +70,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Grants
 - [Comic Relief] (https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
+- [Elrha's Humanitarian Innovation Fund] (http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
 - [Good Data Grants] (https://marketsforgood.org/rfp-good-data-grants/), Stanford, US - research and innovation grants to explore digital data/infrastructure that improves decision-making in philanthropy and civil society.
 - [Nominet Trust] (http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund] (https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
