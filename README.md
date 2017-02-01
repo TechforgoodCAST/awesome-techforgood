@@ -102,6 +102,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Consultancies
 - [CAST] (https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
 - [CITA] (https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities. 
+- [Super Global] (https://github.com/TechforgoodCAST/awesome-techforgood.git), London - match social enterprises with creatives/technologists around the world to amplify impact.
+
 
 
 ## Regular meetups and events
