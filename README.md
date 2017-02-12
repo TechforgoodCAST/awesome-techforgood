@@ -29,6 +29,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [CharityBase] (https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Rapid SMS] (https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 - [Smart Elect] (https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
+- [Tech Forward] (https://github.com/mattstauffer/tech-forward-gomix) - collection of tech-focused projects organisations and tools working for social progress.
 - [Wayfindr] (https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
 - [Wevolver] (https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 
