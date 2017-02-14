@@ -23,6 +23,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ## Awesome tech for good projects
 - [A11Y] (https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
+- [Chayn DIY Online Safety Guide] (https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online privacy, particularly against against harassment and stalkers. 
 - [Free Code Camp nonprofit email service] (https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
 - [HelpText] (https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
