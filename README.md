@@ -55,6 +55,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [EPIC Cambodia] (http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
 - [Fast Forward] (http://www.ffwd.org/), US - equipping tech nonprofits with the financial and human capital necessary to scale
 - [Fuse] (http://www.wearecast.org.uk/fuse), UK - product accelerator for established nonprofits, run by CAST.
+- [Tech for Good Asia] (http://t4g.co/), Singapore - four-month tech for good startup accelerator.
 - [The Engine] (http://www.engine.xyz/), Boston, MA - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 - [Thinktech] (http://www.socialinnovation.ie/our-programmes/what-is-thinktech/), Ireland - €1 million fund backing tech based solutions to Ireland’s critical social issues, from Social Innovation Fund Ireland and Google.org.
 
@@ -66,6 +67,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Fellowships
 - [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects.
 - [CAST Digital Fellowship] (https://medium.com/@wearecast/diving-into-the-digital-fellowship-part-1-411119ad5039), UK - for CEOs and Directors of nonprofits.
+- [SCVO One Digital Senior Leadership programme] (https://digital.scvo.org.uk/evolution/senior-leader-programme/), Scotland - for leaders of Scottish nonprofit frontline service providers and digital inclusion organisations.
 - [Stanford PACS] (http://pacscenter.stanford.edu/digital-civil-society/opportunities/#fellowships), Stanford, US - annual post-doctoral fellowship with the Stanford Digital Civil Society Lab.
 
 
@@ -75,6 +77,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Comic Relief] (https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
 - [Elrha's Humanitarian Innovation Fund] (http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
 - [Good Data Grants] (https://marketsforgood.org/rfp-good-data-grants/), Stanford, US - research and innovation grants to explore digital data/infrastructure that improves decision-making in philanthropy and civil society.
+- [NESTA Innovation Lab] (http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society. 
 - [Nominet Trust] (http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund] (https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
 
@@ -114,10 +117,11 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Meetups
 - [Impact.tech] (http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared] (http://netsquared.org/), worldwide
-- [Tech for Good London] (http://www.meetup.com/techforgood/), UK
-- [Tech for Good Manchester] (http://www.meetup.com/Tech-for-Good-Manchester/), UK
-- [Tech4Good Sheffield] (http://shefftech4good.org/), UK
-- [Tech for Good Cambridge] (http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), UK
+- [One Digital] (https://digital.scvo.org.uk/evolution/one-digital-meetups/), Scotland
+- [Tech for Good London] (http://www.meetup.com/techforgood/), England
+- [Tech for Good Manchester] (http://www.meetup.com/Tech-for-Good-Manchester/), England
+- [Tech4Good Sheffield] (http://shefftech4good.org/), England
+- [Tech for Good Cambridge] (http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), England
 
 ### Events
 - [NetHope Global Summit] (http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
