@@ -110,6 +110,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [CAST] (https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
 - [CITA] (https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities. 
 - [Super Global] (https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
+- [The Engine Room] (https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
 
 
 
