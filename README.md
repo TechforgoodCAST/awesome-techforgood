@@ -115,6 +115,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Super Global] (https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
 - [The Engine Room] (https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
 - [Wonderwerk] (http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
+- [Fabriders] (http://www.fabriders.net/), Worldwide - helps advocates use technologies as part of long-term strategies, on issues including empowering marginalised communities and improving governmental transparency and accountability.
 
 
 
