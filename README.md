@@ -34,6 +34,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Tech Forward] (https://github.com/mattstauffer/tech-forward-gomix) - collection of tech-focused projects organisations and tools working for social progress.
 - [Wayfindr] (https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
 - [Wevolver] (https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
+- [WikiHouse] (https://github.com/wikihouseproject) - an open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
 
 
 ## Online directories
