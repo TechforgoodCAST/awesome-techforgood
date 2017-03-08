@@ -18,12 +18,12 @@ A selection of projects, organisations and useful tools for social-impact tech. 
   - [Consultancies] (#consultancies)
 - [Regular meetups and events] (#regular-meetups-and-events)
   - [Meetups](#meetups)
-- [Contributing] (#contributing) 
+- [Contributing] (#contributing)
 
 
 ## Awesome tech for good projects
 - [A11Y] (https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
-- [Chayn DIY Online Safety Guide] (https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers. 
+- [Chayn DIY Online Safety Guide] (https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
 - [Free Code Camp nonprofit email service] (https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
 - [HelpText] (https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
@@ -36,7 +36,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Wevolver] (https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 
 
-## Online directories 
+## Online directories
 - [+SocialGood] (http://plussocialgood.org/) - global community inspired by the Social Good Summit.
 - [Beehive Giving] (https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
 - [Digital Social Innovation EU] (https://digitalsocial.eu/) - showcase your project, meet collaborators and find funding.
@@ -44,7 +44,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Social Tech Guide] (http://socialtech.org.uk/) - largest database of global tech for good.
 - [Tech for Good Global] (http://www.techforgood.global/) - shining a light on the people & technology making our world better.
 - [The Toolbox] (http://www.thetoolbox.org/) - curated list of digital tools for humanitarian work.
-- [Civic Tech] (http://civictech.co.uk) - tools that empower citizens. 
+- [Civic Tech] (http://civictech.co.uk) - tools that empower citizens.
 
 ## Accelerators, incubators and fellowships
 
@@ -62,8 +62,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Incubators
 - [Blue Ridge Labs] (https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
-- [Liberte Living Lab] (https://liberte.paris/), Paris, France - collaborative workspace for tech, civic and social innovation. 
-- [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna. 
+- [Liberte Living Lab] (https://liberte.paris/), Paris, France - collaborative workspace for tech, civic and social innovation.
+- [Norrsken Foundation] (http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna.
 
 ### Fellowships
 - [Outlandish] (http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects.
@@ -78,7 +78,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Comic Relief] (https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
 - [Elrha's Humanitarian Innovation Fund] (http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
 - [Good Data Grants] (https://marketsforgood.org/rfp-good-data-grants/), Stanford, US - research and innovation grants to explore digital data/infrastructure that improves decision-making in philanthropy and civil society.
-- [NESTA Innovation Lab] (http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society. 
+- [NESTA Innovation Lab] (http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society.
 - [Nominet Trust] (http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund] (https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
 
@@ -105,10 +105,11 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Squareweave] (http://squareweave.com.au/), Melbourne Australia - full-service digital agency specialising in social good.
 - [Super Being Labs] (http://superbeinglabs.org/), London UK - creating social impact using entrepreneurship, creativity and technology.
 - [Thoughtbot] (https://thoughtbot.com/london), London UK - Ruby on Rails and iOS development studio, offer pro bono dev work to charities.
+- [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
 
 ### Consultancies
 - [CAST] (https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
-- [CITA] (https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities. 
+- [CITA] (https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities.
 - [Super Global] (https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
 - [The Engine Room] (https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
 - [Wonderwerk] (http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
@@ -141,4 +142,3 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - Add a new category if needed.
 
 Thanks for your suggestions!
-
