@@ -3,22 +3,22 @@
 A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python), [awesome-dataviz] (https://github.com/fasouto/awesome-dataviz) and all the rest.
 
 ## Table of contents
-- [Awesome tech for good projects] (#awesome-tech-for-good-projects)
-- [Online directories] (#online-directories)
-- [Accelerators, incubators and fellowships] (#accelerators-incubators-and-fellowships)
-  - [Accelerators] (#accelerators)
-  - [Incubators] (#incubators)
-  - [Fellowships] (#fellowships)
-- [Funders] (#funders)
-  - [Grants] (#grants)
-  - [Angels and impact investors] (#angels-and-impact-investors)
-  - [VC] (#vc)
-- [Agencies and consultancies] (#agencies-and-consultancies)
-  - [Agencies] (#agencies)
-  - [Consultancies] (#consultancies)
-- [Regular meetups and events] (#regular-meetups-and-events)
+- [Awesome tech for good projects](#awesome-tech-for-good-projects)
+- [Online directories](#online-directories)
+- [Accelerators, incubators and fellowships](#accelerators-incubators-and-fellowships)
+  - [Accelerators](#accelerators)
+  - [Incubators](#incubators)
+  - [Fellowships](#fellowships)
+- [Funders](#funders)
+  - [Grants](#grants)
+  - [Angels and impact investors](#angels-and-impact-investors)
+  - [VC](#vc)
+- [Agencies and consultancies](#agencies-and-consultancies)
+  - [Agencies](#agencies)
+  - [Consultancies](#consultancies)
+- [Regular meetups and events](#regular-meetups-and-events)
   - [Meetups](#meetups)
-- [Contributing] (#contributing)
+- [Contributing](#contributing)
 
 
 ## Awesome tech for good projects
