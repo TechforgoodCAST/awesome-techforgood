@@ -22,11 +22,12 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 
 ## Awesome tech for good projects
-- [A11Y](https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
-- [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
-- [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
-- [HelpText](https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
-- [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
+- [A11Y] (https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
+- [Alidade] (https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
+- [Chayn DIY Online Safety Guide] (https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
+- [Free Code Camp nonprofit email service] (https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
+- [HelpText] (https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
+- [Humanitarian Open Street Map] (https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 - [CharityBase](https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Rapid SMS](https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
@@ -109,11 +110,12 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
 
 ### Consultancies
-- [CAST](https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
-- [CITA](https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities.
-- [Super Global](https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
-- [The Engine Room](https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
-- [Wonderwerk](http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
+- [CAST] (https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
+- [CITA] (https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities.
+- [Super Global] (https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
+- [The Engine Room] (https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
+- [Wonderwerk] (http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
+- [Fabriders] (http://www.fabriders.net/), Worldwide - helps advocates use technologies as part of long-term strategies, on issues including empowering marginalised communities and improving governmental transparency and accountability.
 
 
 
