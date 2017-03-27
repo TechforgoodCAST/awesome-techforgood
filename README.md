@@ -98,6 +98,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Agencies
 - [3 Sided Cube](https://3sidedcube.com/), Bournemouth UK - mobile app studio, makers of Charity Kit app builder.
+- [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
@@ -107,7 +108,6 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Squareweave](http://squareweave.com.au/), Melbourne Australia - full-service digital agency specialising in social good.
 - [Super Being Labs](http://superbeinglabs.org/), London UK - creating social impact using entrepreneurship, creativity and technology.
 - [Thoughtbot](https://thoughtbot.com/london), London UK - Ruby on Rails and iOS development studio, offer pro bono dev work to charities.
-- [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
 
 ### Consultancies
 - [CAST] (https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
