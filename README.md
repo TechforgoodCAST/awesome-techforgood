@@ -122,6 +122,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ## Regular meetups and events
 
 ### Meetups
+- [CS+SocialGood](http://www.cs4good.com/), Stanford, CA
 - [Impact.tech](http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared](http://netsquared.org/), worldwide
 - [One Digital](https://digital.scvo.org.uk/evolution/one-digital-meetups/), Scotland
