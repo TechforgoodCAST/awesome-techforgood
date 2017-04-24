@@ -61,6 +61,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Tech for Good Asia](http://t4g.co/), Singapore - four-month tech for good startup accelerator.
 - [The Engine](http://www.engine.xyz/), Boston, MA - MIT's startup accelerator offering comprehensive support for entrepreneurs committed to societal impact through scientific and technological breakthroughs.
 - [Thinktech](http://www.socialinnovation.ie/our-programmes/what-is-thinktech/), Ireland - €1 million fund backing tech based solutions to Ireland’s critical social issues, from Social Innovation Fund Ireland and Google.org.
+- [Zinc](https://www.zinc.vc/apply/), UK - 6-month programme for social tech innovators to create and launch new businesses that tackle a specific mission.
 
 ### Incubators
 - [Blue Ridge Labs](https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
@@ -99,6 +100,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Agencies
 - [3 Sided Cube](https://3sidedcube.com/), Bournemouth UK - mobile app studio, makers of Charity Kit app builder.
 - [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
+- [Blanc](https://www.blanc.ltd.uk/), Solihull UK - ethically driven, full-service digital agency that meets goals for people who change the world.
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
