@@ -79,8 +79,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 ### Grants
 - [Comic Relief](https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
+- [Digital Impact Grants](https://digitalimpact.org/2017-request-for-proposal/), Global - formerly Good Data Grants. Supports research and innovation to strengthen the safe, ethical, and effective use of digital resources in civil society.
 - [Elrha's Humanitarian Innovation Fund](http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
-- [Good Data Grants](https://marketsforgood.org/rfp-good-data-grants/), Stanford, US - research and innovation grants to explore digital data/infrastructure that improves decision-making in philanthropy and civil society.
 - [NESTA Innovation Lab](http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society.
 - [Nominet Trust](http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund](https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
@@ -104,6 +104,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
+- [Podnosh](http://podnosh.com/), Birmingham UK - helps government, housing and third sector orgs use social and digital media to create civic good.
 - [Reason Digital](http://reasondigital.com/), Manchester UK - websites and digital for charities and public sector orgs.
 - [Shift](http://www.shiftdesign.org.uk/), London UK  - designs consumer products and builds social ventures to help solve social problems.
 - [SimpleWeb](http://simpleweb.co.uk/), Bristol UK - digital studio specialising in SaaS and mobile.
