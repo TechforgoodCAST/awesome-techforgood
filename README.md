@@ -66,7 +66,8 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Incubators
 - [Blue Ridge Labs](https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
 - [Liberte Living Lab](https://liberte.paris/), Paris, France - collaborative workspace for tech, civic and social innovation.
-- [Norrsken Foundation](http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna.
+- [Norrsken Foundation](http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna
+- [Léman Innovation Numérique](http://unbouncepages.com/tech4good/), Switzerland and France - a regional consortium of actors/orgs for sustainable change and responsibility in technical and digital innovations.
 
 ### Fellowships
 - [Outlandish](http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects.
