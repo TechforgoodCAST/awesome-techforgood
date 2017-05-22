@@ -82,6 +82,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Comic Relief](https://www.comicrelief.com/grants/tech-for-good), UK - for charities who want to build digital products and services.
 - [Digital Impact Grants](https://digitalimpact.org/2017-request-for-proposal/), Global - formerly Good Data Grants. Supports research and innovation to strengthen the safe, ethical, and effective use of digital resources in civil society.
 - [Elrha's Humanitarian Innovation Fund](http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
+- [DotEveryone Grants for Fairer Tech Events](https://medium.com/doteveryone/500-grants-for-fairer-tech-events-dc7a3b5f6e78), UK - £500 grants to promote diversity and accessibility of tech event speakers, organisers and attendees.
 - [NESTA Innovation Lab](http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society.
 - [Nominet Trust](http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [UNICEF Innovation Fund](https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
