@@ -42,6 +42,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [+SocialGood](http://plussocialgood.org/) - global community inspired by the Social Good Summit.
 - [Beehive Giving](https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
 - [Digital Social Innovation EU](https://digitalsocial.eu/) - showcase your project, meet collaborators and find funding.
+- [Humanitarian Data Exchange](https://data.humdata.org/) - open platform for sharing humanitarian data.
 - [Newspeak House Unmailing List](bit.ly/NewspeakHouseUnmailingList) - collection of links to civic tech open forums, groups and mailing lists.
 - [Social Tech Guide](http://socialtech.org.uk/) - largest database of global tech for good.
 - [Tech for Good Global](http://www.techforgood.global/) - shining a light on the people & technology making our world better.
