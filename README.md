@@ -73,6 +73,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Fellowships
 - [Outlandish](http://www.outlandish.com/fellowship/), London UK - grants of £5k-£25k for Fellows to develop their own tech for good projects.
 - [CAST Digital Fellowship](https://medium.com/@wearecast/diving-into-the-digital-fellowship-part-1-411119ad5039), UK - for CEOs and Directors of nonprofits.
+- [New America Public Interest Technology Fellowship](https://www.newamerica.org/technology-public-interest/public-interest-technology-fellowship/), US - applying civic tech knowledge and skills to public service and policymaking
 - [SCVO One Digital Senior Leadership programme](https://digital.scvo.org.uk/evolution/senior-leader-programme/), Scotland - for leaders of Scottish nonprofit frontline service providers and digital inclusion organisations.
 - [Stanford PACS](http://pacscenter.stanford.edu/digital-civil-society/opportunities/#fellowships), Stanford, US - annual post-doctoral fellowship with the Stanford Digital Civil Society Lab.
 
