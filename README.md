@@ -54,7 +54,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Accelerators
 - [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
 - [CARE ScaleXDesign](http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
-- [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger
+- [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger.
 - [Dotforge](https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [EPIC Cambodia](http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
 - [Fast Forward](http://www.ffwd.org/), US - equipping tech nonprofits with the financial and human capital necessary to scale
@@ -67,7 +67,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Incubators
 - [Blue Ridge Labs](https://labs.robinhood.org/), New York, NY - incubator for tech for good ventures in NYC.
 - [Liberte Living Lab](https://liberte.paris/), Paris, France - collaborative workspace for tech, civic and social innovation.
-- [Norrsken Foundation](http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna
+- [Norrsken Foundation](http://www.norrskenfoundation.org/), Sweden - tech for good incubator established by Niklas Adalberth, founder of Klarna.
 - [Léman Innovation Numérique](http://unbouncepages.com/tech4good/), Switzerland and France - a regional consortium of actors/orgs for sustainable change and responsibility in technical and digital innovations.
 
 ### Fellowships
@@ -95,6 +95,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Mustard Seed](http://mustardseedimpact.com/), UK
 
 ### VC
+- [Ascension Ventures](http://www.ascensionventures.com/), London/Birmingham, UK - early-stage VC backing social impact businesses. Creating a new £15m 'Fair By Design' fund (June 2017) to eliminate the 'poverty premium' by 2027.
 - [Fifty Years](http://www.fifty.vc/), San Francisco, CA - an entrepreneur-run early stage VC, funding companies that, if successful, will be both massively profitable and make a serious dent in achieving one of the Sustainable Development Goals.
 - [NESTA Impact Investments](https://nestainvestments.org.uk/), UK - investing in ventures with inclusive and scalable innovations run by outstanding entrepreneurs.
 
