@@ -145,6 +145,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Social Good Week](http://www.socialgoodweek.com/), France, 30 November-6 December 2016
 - [TechCon](http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
 - [Accelerate Global Good](http://accelerategood.org/), San Francisco, CA, 2-3 March 2017
+- [Mashable Social Good Summit](http://mashable.com/sgs/), New York, NY, 17 September 2017
 - [For a list of global Civic Tech events, see this repo](https://github.com/compilerla/civic-tech-events?platform=hootsuite)
 
 # Contributing
