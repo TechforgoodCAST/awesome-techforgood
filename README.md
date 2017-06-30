@@ -56,7 +56,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ## Accelerators, incubators and fellowships
 
 ### Accelerators
-- [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
+- [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £20,000 for 6% equity.
 - [CARE ScaleXDesign](http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
 - [Climate KIC](http://www.climate-kic.org/for-entrepreneurs/accelerator/), Europe - 18-month programme for cleantech startups.
 - [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger.
@@ -147,6 +147,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Tech for Good Manchester](http://www.meetup.com/Tech-for-Good-Manchester/), England
 - [Tech4Good Sheffield](http://shefftech4good.org/), England
 - [Tech for Good Cambridge](http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), England
+- [Tech for Good Near You](https://tech-for-good-near-you.herokuapp.com/), meetup-discovery app for the UK.
 
 ### Events
 - [NetHope Global Summit](http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
