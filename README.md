@@ -26,6 +26,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
 - [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
 - [Code for America](https://github.com/codeforamerica) - making Government work for the people, by the people, in the 21st century.
+- [Find That Charity](https://github.com/TechforgoodCAST/find-that-charity) - search engine for UK charities, with elasticsearch back end.
 - [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
 - [HelpText](https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
