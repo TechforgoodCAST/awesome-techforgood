@@ -25,10 +25,12 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [A11Y](https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
 - [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
 - [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
+- [Code for America](https://github.com/codeforamerica) - making Government work for the people, by the people, in the 21st century.
 - [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
 - [HelpText](https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
+- [Open Knowledge Foundation](https://github.com/okfn) - helping civil society groups access and use data to take action on social problems.
 - [CharityBase](https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Rapid SMS](https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 - [Smart Elect](https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
@@ -42,6 +44,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [+SocialGood](http://plussocialgood.org/) - global community inspired by the Social Good Summit.
 - [Beehive Giving](https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
 - [Digital Social Innovation EU](https://digitalsocial.eu/) - showcase your project, meet collaborators and find funding.
+- [Global Innovation Exchange](https://www.globalinnovationexchange.org/) - marketplace connecting funders, innovators, users and solution seekers.
 - [Humanitarian Data Exchange](https://data.humdata.org/) - open platform for sharing humanitarian data.
 - [Newspeak House Unmailing List](bit.ly/NewspeakHouseUnmailingList) - collection of links to civic tech open forums, groups and mailing lists.
 - [Social Tech Guide](http://socialtech.org.uk/) - largest database of global tech for good.
@@ -54,6 +57,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Accelerators
 - [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
 - [CARE ScaleXDesign](http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
+- [Climate KIC](http://www.climate-kic.org/for-entrepreneurs/accelerator/), Europe - 18-month programme for cleantech startups
 - [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger.
 - [Dotforge](https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [EPIC Cambodia](http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
@@ -85,8 +89,10 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Digital Impact Grants](https://digitalimpact.org/2017-request-for-proposal/), Global - formerly Good Data Grants. Supports research and innovation to strengthen the safe, ethical, and effective use of digital resources in civil society.
 - [Elrha's Humanitarian Innovation Fund](http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
 - [DotEveryone Grants for Fairer Tech Events](https://medium.com/doteveryone/500-grants-for-fairer-tech-events-dc7a3b5f6e78), UK - £500 grants to promote diversity and accessibility of tech event speakers, organisers and attendees.
+- [ICO Grants Programme](https://ico.org.uk/about-the-ico/what-we-do/grants-programme/) - for research and solutions focused on privacy and data protection issues.
 - [NESTA Innovation Lab](http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society.
 - [Nominet Trust](http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
+- [Social Innovation Fund](https://beta.gov.scot/publications/social-innovation-fund-guidance/), Scotland - grants of between £30,000 to £50,000 for partnerships between at least one social economy organisation and one academic/research institution.
 - [UNICEF Innovation Fund](https://unicefinnovationfund.org/), Global - for startups in emerging markets building open-source technology that can benefit children.
 
 ### Angels and impact investors
@@ -121,6 +127,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Consultancies
 - [CAST](https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
 - [CITA](https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities.
+- [GRID Impact](http://www.gridimpact.org/collective/), Worldwide - Collective of behavioral science & Human Centred Design specialists focused on social impact
 - [Super Global](https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
 - [The Engine Room](https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
 - [Wonderwerk](http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
@@ -146,6 +153,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [TechCon](http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
 - [Accelerate Global Good](http://accelerategood.org/), San Francisco, CA, 2-3 March 2017
 - [Mashable Social Good Summit](http://mashable.com/sgs/), New York, NY, 17 September 2017
+- [Mozfest](https://medium.com/mozilla-festival/mozfest-2017-dates-announced-3ffdea8e55c2), London, UK, 27-29 October 2017
 - [For a list of global Civic Tech events, see this repo](https://github.com/compilerla/civic-tech-events?platform=hootsuite)
 
 # Contributing
