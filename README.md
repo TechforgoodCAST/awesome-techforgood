@@ -58,7 +58,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Accelerators
 - [Bethnal Green Ventures](https://bethnalgreenventures.com/), London UK  - for tech for good startups, invests £15,000 for 6% equity.
 - [CARE ScaleXDesign](http://sxdaccelerator.care.org/), New York, NY - to combat and reduce the underlying causes of poverty and social injustice.
-- [Climate KIC](http://www.climate-kic.org/for-entrepreneurs/accelerator/), Europe - 18-month programme for cleantech startups
+- [Climate KIC](http://www.climate-kic.org/for-entrepreneurs/accelerator/), Europe - 18-month programme for cleantech startups.
 - [Digital Impact](http://www.digital-impact.org/), Paris, France - 10-month programme for tech for good startups 3 years old or younger.
 - [Dotforge](https://dotforge.com), Sheffield, Manchester and Leeds, UK  - for startups and social enterprises in the North of England.
 - [EPIC Cambodia](http://www.epiccambodia.com/), - Phnom Penh, Cambodia - 1-year Impact Hub programme supporting Cambodian tech for good startups with $20,000.
@@ -90,7 +90,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 - [Digital Impact Grants](https://digitalimpact.org/2017-request-for-proposal/), Global - formerly Good Data Grants. Supports research and innovation to strengthen the safe, ethical, and effective use of digital resources in civil society.
 - [Elrha's Humanitarian Innovation Fund](http://www.elrha.org/hif/home/), Global - supports organisations to develop, test and share new technologies, products and processes that will make humanitarian aid more effective and cost-efficient in the future.
 - [DotEveryone Grants for Fairer Tech Events](https://medium.com/doteveryone/500-grants-for-fairer-tech-events-dc7a3b5f6e78), UK - £500 grants to promote diversity and accessibility of tech event speakers, organisers and attendees.
-- [ICO Grants Programme](https://ico.org.uk/about-the-ico/what-we-do/grants-programme/) - for research and solutions focused on privacy and data protection issues.
+- [ICO Grants Programme](https://ico.org.uk/about-the-ico/what-we-do/grants-programme/), UK - for research and solutions focused on privacy and data protection issues.
 - [NESTA Innovation Lab](http://www.nesta.org.uk/innovation-lab), UK and Europe - funds and challenge prizes for innovation in education, local and central government, the arts, the collaborative economy and civil society.
 - [Nominet Trust](http://www.nominettrust.org.uk/), UK - the UK's largest tech for good funder.
 - [Social Innovation Fund](https://beta.gov.scot/publications/social-innovation-fund-guidance/), Scotland - grants of between £30,000 to £50,000 for partnerships between at least one social economy organisation and one academic/research institution.
