@@ -112,7 +112,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ### Agencies
 - [3 Sided Cube](https://3sidedcube.com/), Bournemouth UK - mobile app studio, makers of Charity Kit app builder.
 - [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
-- [Blanc](https://www.blanc.ltd.uk/), Solihull UK - ethically driven, full-service digital agency that meets goals for people who change the world.
+- [DEV](https://www.dev.ngo/), Solihull UK - The Developer Site, a not for profit co-op digital agency working exclusively with charities, NGOs, activists and changemakers across front end, back end and design. Formerly Blanc Ltd.
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
