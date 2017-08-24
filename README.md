@@ -22,6 +22,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 
 ## Awesome tech for good projects
+A selection of open source social good projects can be found on [GitHub's Social Impact Showcase](https://github.com/showcases/social-impact), but here are a few more for good measure:
 - [A11Y](https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
 - [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
 - [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
