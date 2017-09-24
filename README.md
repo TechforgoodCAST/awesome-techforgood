@@ -113,7 +113,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 ### Agencies
 - [3 Sided Cube](https://3sidedcube.com/), Bournemouth UK - mobile app studio, makers of Charity Kit app builder.
 - [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
-- [DEV](https://www.dev.ngo/), Solihull UK - The Developer Site, a not for profit co-op digital agency working exclusively with charities, NGOs, activists and changemakers across front end, back end and design. Formerly Blanc Ltd.
+- [DEV](https://www.dev.ngo/), Solihull UK - The Developer Society, a not-for-profit co-op digital agency working exclusively with charities, NGOs, activists and changemakers across front end, back end and design. Formerly Blanc Ltd.
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
