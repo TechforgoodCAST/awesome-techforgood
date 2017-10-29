@@ -2,7 +2,7 @@
 
 A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python), [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) and all the rest.
 
-## Table of contents
+## Contents
 - [Awesome tech for good projects](#awesome-tech-for-good-projects)
 - [Online directories](#online-directories)
 - [Accelerators, incubators and fellowships](#accelerators-incubators-and-fellowships)
@@ -168,3 +168,9 @@ A selection of open source social good projects can be found on [GitHub's Social
 - Add a new category if needed.
 
 Thanks for your suggestions!
+
+# License
+
+CC0
+
+To the extent possible under law, CAST has waived all copyright and related or neighbouring rights to this work.
