@@ -118,6 +118,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Neontribe](http://neontribe.co.uk), Norfolk UK - tech for good product agency.
 - [Outlandish](http://outlandish.com/), London UK - co-op of designers and developers working on projects that make a difference.
 - [Podnosh](http://podnosh.com/), Birmingham UK - helps government, housing and third sector orgs use social and digital media to create civic good.
+- [Rareloop](https://www.rareloop.com/), Southampton UK - digital studio specialising in websites, mobile apps and bespoke software.
 - [Reason Digital](http://reasondigital.com/), Manchester UK - websites and digital for charities and public sector orgs.
 - [Shift](http://www.shiftdesign.org.uk/), London UK  - designs consumer products and builds social ventures to help solve social problems.
 - [SimpleWeb](http://simpleweb.co.uk/), Bristol UK - digital studio specialising in SaaS and mobile.
