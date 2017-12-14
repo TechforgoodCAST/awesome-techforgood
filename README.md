@@ -134,6 +134,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [The Engine Room](https://www.theengineroom.org), Worldwide - helps activists and social-impact organisations make the most of their data.
 - [Wonderwerk](http://www.wonderwerk.at/), Austria and Germany - combines design-thinking, strategy, technology, and organisational expertise to deliver creative excellence and innovation for social impact.
 - [Fabriders](http://www.fabriders.net/), Worldwide - helps advocates use technologies as part of long-term strategies, on issues including empowering marginalised communities and improving governmental transparency and accountability.
+- [The Dot Project](http://www.thedotproject.co), UK - supports social impact projects and organisations to strengthen their approach by integrating effective and appropriate digital solutions.  
 
 
 
@@ -149,6 +150,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Tech4Good Sheffield](http://shefftech4good.org/), England
 - [Tech for Good Cambridge](http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), England
 - [Tech for Good Near You](https://tech-for-good-near-you.herokuapp.com/), meetup-discovery app for the UK.
+- [Tech for Good Bath](https://www.meetup.com/TechForGoodBath/), England
 
 ### Events
 - [NetHope Global Summit](http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
