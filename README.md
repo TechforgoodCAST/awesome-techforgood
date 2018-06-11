@@ -25,22 +25,22 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 A selection of open source social good projects can be found on [GitHub's Social Impact Showcase](https://github.com/showcases/social-impact), but here are a few more for good measure:
 - [A11Y](https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
 - [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
+- [CharityBase](https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
 - [Code for America](https://github.com/codeforamerica) - making Government work for the people, by the people, in the 21st century.
 - [Find That Charity](https://github.com/TechforgoodCAST/find-that-charity) - search engine for UK charities, with elasticsearch back end.
 - [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) - helping nonprofits manage their email campaigns without having to use third party services.
 - [HelpText](https://github.com/open-ecommerce/helptext) - open source app for SMS managment in nonprofit organisations.
 - [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
+- [Luftdaten.info](https://luftdaten.info/en/home-en/) - International citizen science project to build particulate matter sensors cheaply and network the results. [Map](https://maps.luftdaten.info), [GitHub](https://github.com/opendata-stuttgart)
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 - [Open Knowledge Foundation](https://github.com/okfn) - helping civil society groups access and use data to take action on social problems.
-- [CharityBase](https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Rapid SMS](https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 - [Smart Elect](https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
 - [Tech Forward](https://github.com/mattstauffer/tech-forward-gomix) - collection of tech-focused projects organisations and tools working for social progress.
 - [Wayfindr](https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
 - [Wevolver](https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 - [WikiHouse](https://github.com/wikihouseproject) - an open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
-- [luftdaten.info](https://luftdaten.info/en/home-en/) - International citizen science project to build particulate matter sensors cheaply and network the results. [Map](https://maps.luftdaten.info), [GitHub](https://github.com/opendata-stuttgart)
 
 
 ## Online directories
@@ -143,6 +143,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 ## Regular meetups and events
 
 ### Meetups
+- [Codebridge](http://codebridge.org.za/) [(meetup)](https://www.meetup.com/OpenUp/events/), Cape Town, South Africa
 - [CS+SocialGood](http://www.cs4good.com/), Stanford, CA
 - [Impact.tech](http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared](http://netsquared.org/), worldwide
@@ -153,7 +154,6 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Tech for Good Cambridge](http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), England
 - [Tech for Good Near You](https://tech-for-good-near-you.herokuapp.com/), meetup-discovery app for the UK.
 - [Tech for Good Bath](https://www.meetup.com/TechForGoodBath/), England
-- [Codebridge](http://codebridge.org.za/) [(meetup)](https://www.meetup.com/OpenUp/events/), Cape Town, South Africa
 
 ### Events
 - [NetHope Global Summit](http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
