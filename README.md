@@ -40,6 +40,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Wayfindr](https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
 - [Wevolver](https://github.com/Wevolver) - hardware projects repository hosting service. Robotics, drones, 3D printers etc.
 - [WikiHouse](https://github.com/wikihouseproject) - an open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
+- [luftdaten.info](https://luftdaten.info/en/home-en/) - International citizen science project to build particulate matter sensors cheaply and network the results. [Map](https://maps.luftdaten.info), [GitHub](https://github.com/opendata-stuttgart)
 
 
 ## Online directories
