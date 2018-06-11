@@ -152,6 +152,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Tech for Good Cambridge](http://www.meetup.com/Cambridge-Tech-For-Good-Meetup/), England
 - [Tech for Good Near You](https://tech-for-good-near-you.herokuapp.com/), meetup-discovery app for the UK.
 - [Tech for Good Bath](https://www.meetup.com/TechForGoodBath/), England
+- [Codebridge](http://codebridge.org.za/) [(meetup)](https://www.meetup.com/OpenUp/events/), Cape Town, South Africa
 
 ### Events
 - [NetHope Global Summit](http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
