@@ -24,7 +24,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 ## Awesome tech for good projects
 A selection of open source social good projects can be found on [GitHub's Social Impact Showcase](https://github.com/showcases/social-impact), but here are a few more for good measure:
 - [A11Y](https://github.com/a11yproject/a11yproject.com) - community-driven effort to make web accessibility easier.
-- [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning. 
+- [Alidade](https://github.com/the-engine-room/alidade) - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning.
 - [CharityBase](https://github.com/tithebarn/charity-base) - comprehensive database of 350,000 charities + an open source API.
 - [Chayn DIY Online Safety Guide](https://github.com/chaynHQ/diy-online-privacy-starter) - open source guide to help protect  online accounts against harassment and stalkers.
 - [Code for America](https://github.com/codeforamerica) - making Government work for the people, by the people, in the 21st century.
@@ -34,6 +34,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [Luftdaten.info](https://luftdaten.info/en/home-en/) - International citizen science project to build particulate matter sensors cheaply and network the results. [Map](https://maps.luftdaten.info), [GitHub](https://github.com/opendata-stuttgart)
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
+- [Open Data Kit](https://github.com/opendatakit) - Free and open-source set of tools for collecting data in challenging environments
 - [Open Knowledge Foundation](https://github.com/okfn) - helping civil society groups access and use data to take action on social problems.
 - [Rapid SMS](https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 - [Smart Elect](https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
