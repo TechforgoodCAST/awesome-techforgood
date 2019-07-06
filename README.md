@@ -151,6 +151,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Impact.tech](http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared](http://netsquared.org/), worldwide
 - [One Digital](https://digital.scvo.org.uk/evolution/one-digital-meetups/), Scotland
+- [Tech for Good Brighton](https://www.meetup.com/Tech-For-Good-Brighton/), England
 - [Tech for Good London](http://www.meetup.com/techforgood/), England
 - [Tech for Good Manchester](http://www.meetup.com/Tech-for-Good-Manchester/), England
 - [Tech4Good Sheffield](http://shefftech4good.org/), England
