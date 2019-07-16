@@ -114,6 +114,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 
 ### Agencies
 - [3 Sided Cube](https://3sidedcube.com/), Bournemouth UK - mobile app studio, makers of Charity Kit app builder.
+- [Aptivate](http://www.aptivate.org/), Agile software design &amp; development for International Development and the third sector since 2003. We use participatory methods to design and build software for M&E, MIS, Grant management, GIS, mapping, websites, mobile, native apps and data visualisation. We are specialists in low-bandwidth. See our open source contributions at https://github.com/aptivate and https://github.com/trademapper. We are a not-for-profit worker owned and managed coop.
 - [Agile Ventures](http://www.agileventures.org/), Virtual, International - UK charity delivering crowdsourced agile software development and training for nonprofits.
 - [DEV](https://www.dev.ngo/), Solihull UK - The Developer Society, a not-for-profit co-op digital agency working exclusively with charities, NGOs, activists and changemakers across front end, back end and design. Formerly Blanc Ltd.
 - [DWYL](https://github.com/dwyl), London UK - community of people dedicated to helping people solve real problems with technology.
@@ -149,6 +150,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Impact.tech](http://www.meetup.com/impacttech/), San Francisco, CA
 - [NetSquared](http://netsquared.org/), worldwide
 - [One Digital](https://digital.scvo.org.uk/evolution/one-digital-meetups/), Scotland
+- [Tech for Good Brighton](https://www.meetup.com/Tech-For-Good-Brighton/), England
 - [Tech for Good London](http://www.meetup.com/techforgood/), England
 - [Tech for Good Manchester](http://www.meetup.com/Tech-for-Good-Manchester/), England
 - [Tech4Good Sheffield](http://shefftech4good.org/), England
