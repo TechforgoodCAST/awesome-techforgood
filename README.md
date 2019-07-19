@@ -103,6 +103,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [ClearlySo](https://www.clearlyso.com), UK
 - [Growth4Good](http://growth4good.com/), UK
 - [Mustard Seed](http://mustardseedimpact.com/), UK
+- [Invest-in-Change](https://invest-in-change.com/), UK - Mailing list connecting angel investors with impact companies.
 
 ### VC
 - [Ascension Ventures](http://www.ascensionventures.com/), London/Birmingham, UK - early-stage VC backing social tech businesses. Creating a new £15m 'Fair By Design' fund (June 2017) to eliminate the 'poverty premium' by 2027.
