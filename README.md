@@ -38,7 +38,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Open Data Kit](https://github.com/opendatakit) - Free and open-source set of tools for collecting data in challenging environments
 - [Open Knowledge Foundation](https://github.com/okfn) - helping civil society groups access and use data to take action on social problems.
 - [Rapid SMS](https://github.com/rapidsms/rapidsms) - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
-- [SoGive](https://github.com/winterstein/sogive-app) - database of charities (mostly but not exclusively UK based at present) with models of the impact they achieve, with a donation-tracking / fund-raising web-app. SoGive has links with the Effective Altruism (EA) movement which aims.
+- [SoGive](https://github.com/winterstein/sogive-app) - database of charities (mostly but not exclusively UK based at present) with models of the impact they achieve, with a donation-tracking / fund-raising web-app. SoGive has links with the Effective Altruism (EA) movement.
 - [Smart Elect](https://github.com/SmartElect) - SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
 - [Tech Forward](https://github.com/mattstauffer/tech-forward-gomix) - collection of tech-focused projects organisations and tools working for social progress.
 - [Wayfindr](https://github.com/wayfindrltd) - open standard of audio navigation for vision impaired people (+ demo iOS app).
