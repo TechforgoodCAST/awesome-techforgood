@@ -133,7 +133,6 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Thoughtbot](https://thoughtbot.com/london), London UK - Ruby on Rails and iOS development studio, offer pro bono dev work to charities.
 
 ### Consultancies
-- [CAST](https://wearecast.org.uk), UK - working with funders, nonprofits, startups and government to scale tech for good impact.
 - [CITA](https://charityithelp.org.uk/), UK - IT consultancy and tech surgeries for charities.
 - [GRID Impact](http://www.gridimpact.org/collective/), Worldwide - Collective of behavioral science & Human Centred Design specialists focused on social impact
 - [Super Global](https://superglobal.io/), London - matches social enterprises with creatives/technologists around the world to amplify impact.
@@ -161,13 +160,6 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Tech for Good Bath](https://www.meetup.com/TechForGoodBath/), England
 
 ### Events
-- [NetHope Global Summit](http://www.nethopeglobalsummit.org/), Atlanta, GA, 7-11 November 2016
-- [Social Good Week](http://www.socialgoodweek.com/), France, 30 November-6 December 2016
-- [TechCon](http://www.hesntechcon.co), Boston, MA, 10-12 November 2016
-- [Accelerate Global Good](http://accelerategood.org/), San Francisco, CA, 2-3 March 2017
-- [Digital Impact](https://dataworldtour.org/sessions/berlin/), Berlin, Germany, 21 June 2017
-- [Mashable Social Good Summit](http://mashable.com/sgs/), New York, NY, 17 September 2017
-- [Mozfest](https://medium.com/mozilla-festival/mozfest-2017-dates-announced-3ffdea8e55c2), London, UK, 27-29 October 2017
 - [For a list of global Civic Tech events, see this repo](https://github.com/compilerla/civic-tech-events?platform=hootsuite)
 
 # Contributing
