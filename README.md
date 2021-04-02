@@ -51,6 +51,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Beehive Giving](https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
 - [Digital Social Innovation EU](https://digitalsocial.eu/) - showcase your project, meet collaborators and find funding.
 - [Global Innovation Exchange](https://www.globalinnovationexchange.org/) - marketplace connecting funders, innovators, users and solution seekers.
+- [Good with Tech](http://www.goodwithtech.org/) - actionable ways to do more good with your tech skills.
 - [Humanitarian Data Exchange](https://data.humdata.org/) - open platform for sharing humanitarian data.
 - [Newspeak House Unmailing List](https://bit.ly/NewspeakHouseList) - collection of links to civic tech open forums, groups and mailing lists.
 - [Social Tech Guide](http://socialtech.org.uk/) - largest database of global tech for good.
