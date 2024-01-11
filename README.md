@@ -49,6 +49,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 ## Online directories
 - [+SocialGood](http://plussocialgood.org/) - global community inspired by the Social Good Summit.
 - [Beehive Giving](https://www.beehivegiving.org) - funder recommendation and eligibility-checking platform.
+- [ClimateTriage](https://climatetriage.com/) - climate and sustainability projects that have "good first issues" for new collaborators
 - [Digital Social Innovation EU](https://digitalsocial.eu/) - showcase your project, meet collaborators and find funding.
 - [Global Innovation Exchange](https://www.globalinnovationexchange.org/) - marketplace connecting funders, innovators, users and solution seekers.
 - [Humanitarian Data Exchange](https://data.humdata.org/) - open platform for sharing humanitarian data.
