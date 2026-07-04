@@ -34,6 +34,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 - [Humanitarian Open Street Map](https://github.com/hotosm) - open, free map data for humanitarian aid and development.
 - [KoBoToolbox](https://github.com/kobotoolbox) - Simple, robust and powerful tools For data collection in demanding contexts.
 - [Luftdaten.info](https://luftdaten.info/en/home-en/) - International citizen science project to build particulate matter sensors cheaply and network the results. [Map](https://maps.luftdaten.info), [GitHub](https://github.com/opendata-stuttgart)
+- [Memdeklaro](https://memdeklaro.org) - Memdeklaro (self-declaration of identity) is a humanitarian alternative to government ID, supporting freedom of name, freedom of belief and freedom of association. Memdeklaro is for everyone and is free to use.
 - [Open Bionics](https://github.com/OpenBionics) - open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 - [Open Data Kit](https://github.com/opendatakit) - Free and open-source set of tools for collecting data in challenging environments
 - [Open Knowledge Foundation](https://github.com/okfn) - helping civil society groups access and use data to take action on social problems.
